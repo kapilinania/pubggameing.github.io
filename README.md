@@ -20,7 +20,7 @@ like that after
 ![image](https://github.com/kapilinania/pubggameing.github.io/assets/67285213/c08c2083-23a9-4f75-b0b3-c531b2053006)
 i am says to user fill the detail
 after fill the detail
-![Uploading image.png…]()
+![image](https://github.com/kapilinania/pubggameing.github.io/assets/67285213/a6ff6232-3142-464e-ad1e-6f2c92e1040e)
 Detail come to below
 after click here to logout user can logout now 
 Thank you
